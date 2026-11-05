@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Workspace local files
+AGENTS.md
+backup.sh
